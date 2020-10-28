@@ -4,8 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Web Worker demo
 
-# docs
+### docs
 https://angular.io/guide/web-worker
 
-# tutorial
+### tutorial
 https://medium.com/ngconf/supercharge-your-angular-application-using-web-workers-5e9e423a401d
